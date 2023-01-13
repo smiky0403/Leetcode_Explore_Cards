@@ -172,7 +172,7 @@ std::cout<<"To be improve to O(N): Quiz: double zeros of an array, change its si
   }
  std::cout<<"Quiz: Merge sort:    ";
   for(int i = 0; i < num1.size(); i++){
-       std::cout << num1[i] << "  ";
+       
   }
 
 }
