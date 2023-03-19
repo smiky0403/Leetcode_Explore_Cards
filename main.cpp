@@ -113,9 +113,16 @@ for(int num : nums ){
   st.insert(num);
 }
 
+cout <<endl;
+
+cout << 851 + 777 + 562 + 550 + 777 + 851 + 740 + 777 - 497.25<<endl;
+cout << 47.5 + 67.5 + 47.5 + 34.5 - 4 + 43 -86 + 52 + 62 - 43 + 43 + 31 + 43 + 31 + 27 <<endl;
 //cout << st
-
-
+double x1 = 11.41 + 210.70 + 58.11 + 10.89;
+cout << x1 <<endl;
+double x2 = 63 + 225 + 145 + 142.8 + 159.2 + 65.6 + 65.6 + 158.4;
+cout << x2 <<endl;
+cout << x1 + x2 <<endl;
 
 // vector<int> w;
 // for(int i = 0; i <nums.size(); i++ ){
@@ -148,4 +155,5 @@ for(int num : nums ){
   // }
 
  //0319
+
 }
