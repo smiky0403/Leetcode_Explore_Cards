@@ -159,16 +159,6 @@ std::cout << "Quiz:find if array has mountain pattern:  " << "  ";
    cout << arr.end() - it;
 
 
-
-  //cout <<w;
-
-  // if(arr.size()>2){
-
-    
-  //   }else{
-
-  // }
-
 }
 
 
